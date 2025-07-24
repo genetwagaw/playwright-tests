@@ -1,3 +1,4 @@
+dir .github\workflows
 name: Playwright Tests
 on:
   push:
